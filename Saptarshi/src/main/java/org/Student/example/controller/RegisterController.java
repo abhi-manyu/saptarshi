@@ -36,7 +36,7 @@ public class RegisterController
     }
 	
 	
-	@RequestMapping(value="/login", method=RequestMethod.POST)
+	/*@RequestMapping(value="/login", method=RequestMethod.POST)
 	//@PostMapping
 	public ModelAndView Login(HttpServletRequest request)
     {
@@ -50,6 +50,6 @@ public class RegisterController
     	}
     	String sms2="username and password not matched";
     	return new ModelAndView("failed2","fail",sms2);
-    }
+    }*/
 	
 }

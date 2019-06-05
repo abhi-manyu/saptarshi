@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="./login" method="Post">
-   enter ur username : <input type="text" name="unm" /><br>
-   enter ur password : <input type="password" name="pas" /><br>
-   <input type="submit" value="Login" />
-   <input type="reset" value="clear" />
-</form>
+    <h2>log in attempt failed</h2>
 </body>
 </html>
